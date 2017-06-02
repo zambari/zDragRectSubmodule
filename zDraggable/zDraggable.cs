@@ -13,7 +13,7 @@ public class zDraggable : MonoBehaviour,IProvideColors
     [Range(1, 16)]
     public float borderWidth = 6;
     [Range(1, 16)]
-    public float headerHeight = 12;
+    public float headerHeight = 8;
     public bool stretchSidesToTop = true;
     public bool useCorners = true;
     public bool useLineGraphics = false;
